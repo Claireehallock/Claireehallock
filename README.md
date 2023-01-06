@@ -1,4 +1,4 @@
 - Hi, I’m @Claireehallock
 - I’m interested in many different types of coding projects
-- I’m currently Studying Computer Science at U.C. Merced
+- I’m currently Studying Computer Science at the University of California, Merced
 - You can reach me at claireehallock@gmail.com
