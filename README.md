@@ -1,5 +1,6 @@
 - Hi, I’m @Claireehallock
+- Currently working at Yosemite National Park doing GIS Development work!
 - I’m interested in many different types of coding projects
-- I wnat to see cool GIS stuff as well!
+- I want to see cool GIS stuff as well!
 - I have a B.S. in Computer Science from the University of California, Merced
 - You can reach me at claireehallock@gmail.com
