@@ -1,4 +1,5 @@
 - Hi, I’m @Claireehallock
 - I’m interested in many different types of coding projects
-- I’m currently Studying Computer Science at the University of California, Merced
+- I wnat to see cool GIS stuff as well!
+- I have a B.S. in Computer Science from the University of California, Merced
 - You can reach me at claireehallock@gmail.com
